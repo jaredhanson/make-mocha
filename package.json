@@ -1,0 +1,32 @@
+{
+  "name": "make-mocha",
+  "version": "0.0.0",
+  "description": "Make targets for running tests using Mocha.",
+  "keywords": [
+    "make",
+    "mocha"
+  ],
+  "author": {
+    "name": "Jared Hanson",
+    "email": "jaredhanson@gmail.com",
+    "url": "https://www.jaredhanson.me/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaredhanson/make-mocha.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jaredhanson/make-mocha/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/jaredhanson"
+  },
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ]
+}
