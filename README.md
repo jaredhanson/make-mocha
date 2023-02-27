@@ -21,7 +21,7 @@ in rules:
 
 - **`MOCHA`**
 
-  Program for running tests; default ‘mocha’.
+  Program for running tests; default `mocha`.
 
 Here is a table of variables whose values are additional arguments for the
 programs above. The default values for all of these is the empty string, unless
