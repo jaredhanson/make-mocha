@@ -8,11 +8,11 @@ Make targets for running tests using Mocha.
 
 ## Targets
 
-- `test`
+- **`test`**
 
   Lorem ipsum
 
-- `foo`
+- **`foo`**
 
   Lorem ipsum
 
