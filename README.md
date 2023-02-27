@@ -10,8 +10,33 @@ Make targets for running tests using [Mocha](https://mochajs.org).
 
 Include this makefile in your Makefile:
 
-```
+```make
 include mocha.mk
+```
+
+For convenience when using in JavaScript projects, this makefile is published to
+[npm](https://www.npmjs.com/).  It can be installed:
+
+```sh
+$ npm install make-mocha --save-dev
+```
+
+and then included in your Makefile:
+
+```make
+include node_modules/make-mocha/mocha.mk
+```
+
+Define a variable that represents your test suite:
+
+```make
+TESTS = test/*.test.js
+```
+
+Invoke the `test` target:
+
+```sh
+make test
 ```
 
 #### Variables
