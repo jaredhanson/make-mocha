@@ -14,7 +14,7 @@ Include this makefile in your Makefile:
 include mocha.mk
 ```
 
-### Variables
+#### Variables
 
 Here is a table of some of the more common variables used as names of programs
 in rules:
@@ -31,7 +31,7 @@ otherwise noted.
 
   Extra flags to give to the test runner.
 
-### Targets
+#### Targets
 
 - **`test`**
 
