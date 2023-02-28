@@ -1,6 +1,6 @@
 # make-mocha
 
-Make targets for running tests using [Mocha](https://mochajs.org).
+Make targets for running tests using [Mocha](https://mochajs.org/).
 
 <p align="right">
   <sup>Developed by <a href="#authors">Jared Hanson</a>.</sub>
