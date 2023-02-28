@@ -6,7 +6,7 @@ Make targets for running tests using [Mocha](https://mochajs.org/).
   <sup>Developed by <a href="#authors">Jared Hanson</a>.</sub>
 </p>
 
-## Usage
+## Install
 
 Include this makefile in your Makefile:
 
@@ -26,6 +26,8 @@ and then included in your Makefile:
 ```make
 include node_modules/make-mocha/mocha.mk
 ```
+
+## Usage
 
 Define a variable that represents your test suite:
 
